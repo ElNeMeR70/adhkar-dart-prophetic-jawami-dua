@@ -1,0 +1,5 @@
+name: adhkar_dart_prophetic_jawami_dua
+description: "Jawami' Al-Kalim Comprehensive Prophetic Supplications Corpus"
+version: 1.0.0
+environment:
+  sdk: ">=3.0.0 <4.0.0"
